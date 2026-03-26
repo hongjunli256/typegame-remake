@@ -1,0 +1,54 @@
+<RCC>
+    <qresource prefix="/imagePng">
+        <file>PNG/APPLE_SETUP.png</file>
+        <file>PNG/CANCEL.png</file>
+        <file>PNG/CHECKBOX_BUTTON.png</file>
+        <file>PNG/DEFAULT.png</file>
+        <file>PNG/MAIN_DLG_BG.png</file>
+        <file>PNG/MAIN_DLG_EXIT.png</file>
+        <file>PNG/MAIN_DLG_REPLAY.png</file>
+        <file>PNG/NO.png</file>
+        <file>PNG/OK.png</file>
+        <file>PNG/PUBLIC_END.png</file>
+        <file>PNG/PUBLIC_EXIT.png</file>
+        <file>PNG/PUBLIC_PAUSE.png</file>
+        <file>PNG/PUBLIC_SETUP.png</file>
+        <file>PNG/PUBLIC_START.png</file>
+        <file>PNG/SLIDER_BG.png</file>
+        <file>PNG/SLIDER_SLIDER.png</file>
+        <file>PNG/SPACE_BACKGROUND.png</file>
+        <file>PNG/SPACE_BOMB.png</file>
+        <file>PNG/SPACE_CAPTION_BACK.png</file>
+        <file>PNG/SPACE_ENEMY_0.png</file>
+        <file>PNG/SPACE_ENEMY_4.png</file>
+        <file>PNG/SPACE_EXIT.png</file>
+        <file>PNG/SPACE_EXPLOSION_0.png</file>
+        <file>PNG/SPACE_HISCORE.png</file>
+        <file>PNG/SPACE_HISCORE_BG.png</file>
+        <file>PNG/SPACE_LABEL_LIFE.png</file>
+        <file>PNG/SPACE_LABEL_SCORE.png</file>
+        <file>PNG/SPACE_LABEL_TIME.png</file>
+        <file>PNG/SPACE_LIFE.png</file>
+        <file>PNG/SPACE_LIFE_OVER.png</file>
+        <file>PNG/SPACE_MAINMENU_BG.png</file>
+        <file>PNG/SPACE_OPTION.png</file>
+        <file>PNG/SPACE_RETURN.png</file>
+        <file>PNG/SPACE_SHIP.png</file>
+        <file>PNG/SPACE_STARS.png</file>
+        <file>PNG/SPACE_START.png</file>
+        <file>PNG/YES.png</file>
+    </qresource>
+    <qresource prefix="/soundWav">
+        <file>WAVE/ANIBTN_CLICK.wav</file>
+        <file>WAVE/ANIBTN_ENTER.wav</file>
+        <file>WAVE/BTN_CLICK.wav</file>
+        <file>WAVE/GLIDE.wav</file>
+        <file>WAVE/SPACE_BG.wav</file>
+        <file>WAVE/SPACE_BLAST.wav</file>
+        <file>WAVE/SPACE_PLANEOUT.wav</file>
+        <file>WAVE/SPACE_SHOOT.wav</file>
+        <file>WAVE/SPACE_WORDOUT.wav</file>
+        <file>WAVE/TYPE.wav</file>
+        <file>WAVE/UPGRADE.wav</file>
+    </qresource>
+</RCC>

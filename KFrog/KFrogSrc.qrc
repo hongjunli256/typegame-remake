@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/soundWav">
+        <file>WAVE/ANIBTN_CLICK.wav</file>
+        <file>WAVE/ANIBTN_ENTER.wav</file>
+        <file>WAVE/FROG_BACK.wav</file>
+        <file>WAVE/FROG_BG.wav</file>
+        <file>WAVE/FROG_JUMP.wav</file>
+        <file>WAVE/GLIDE.wav</file>
+        <file>WAVE/TYPE.wav</file>
+    </qresource>
+    <qresource prefix="/imagePng">
+        <file>PNG/CANCEL.png</file>
+        <file>PNG/DEFAULT.png</file>
+        <file>PNG/DROPDOWN_BUTTON.png</file>
+        <file>PNG/FROG_BACK_1.png</file>
+        <file>PNG/FROG_BACK_2.png</file>
+        <file>PNG/FROG_BACKGROUND.png</file>
+        <file>PNG/FROG_DLG_BG.png</file>
+        <file>PNG/FROG_DLG_END.png</file>
+        <file>PNG/FROG_DLG_NEXT.png</file>
+        <file>PNG/FROG_DLG_REPLAY.png</file>
+        <file>PNG/FROG_END.png</file>
+        <file>PNG/FROG_EXIT.png</file>
+        <file>PNG/FROG_FRONT_1.png</file>
+        <file>PNG/FROG_FRONT_2.png</file>
+        <file>PNG/FROG_LEAF.png</file>
+        <file>PNG/FROG_PAUSE.png</file>
+        <file>PNG/FROG_SETTING.png</file>
+        <file>PNG/FROG_SETUP.png</file>
+        <file>PNG/FROG_START.png</file>
+        <file>PNG/MAIN_DLG_BG.png</file>
+        <file>PNG/MAIN_DLG_EXIT.png</file>
+        <file>PNG/MAIN_DLG_REPLAY.png</file>
+        <file>PNG/NO.png</file>
+        <file>PNG/OK.png</file>
+        <file>PNG/PUBLIC_END.png</file>
+        <file>PNG/PUBLIC_EXIT.png</file>
+        <file>PNG/PUBLIC_PAUSE.png</file>
+        <file>PNG/PUBLIC_SETUP.png</file>
+        <file>PNG/PUBLIC_START.png</file>
+        <file>PNG/SLIDER_BG.png</file>
+        <file>PNG/SLIDER_SLIDER.png</file>
+        <file>PNG/YES.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/imagePng">
+        <file>PNG/APPLE_BACKGROUND.png</file>
+        <file>PNG/APPLE_BAD.png</file>
+        <file>PNG/APPLE_BASKET.png</file>
+        <file>PNG/APPLE_DLG_BG.png</file>
+        <file>PNG/APPLE_DLG_END.png</file>
+        <file>PNG/APPLE_DLG_NEXT.png</file>
+        <file>PNG/APPLE_DLG_REPLAY.png</file>
+        <file>PNG/APPLE_NORMAL.png</file>
+        <file>PNG/APPLE_SETUP.png</file>
+        <file>PNG/APPLE_SMALL.png</file>
+        <file>PNG/CANCEL.png</file>
+        <file>PNG/DEFAULT.png</file>
+        <file>PNG/MAIN_DLG_BG.png</file>
+        <file>PNG/MAIN_DLG_EXIT.png</file>
+        <file>PNG/MAIN_DLG_REPLAY.png</file>
+        <file>PNG/NO.png</file>
+        <file>PNG/OK.png</file>
+        <file>PNG/PUBLIC_END.png</file>
+        <file>PNG/PUBLIC_EXIT.png</file>
+        <file>PNG/PUBLIC_PAUSE.png</file>
+        <file>PNG/PUBLIC_SETUP.png</file>
+        <file>PNG/PUBLIC_START.png</file>
+        <file>PNG/SLIDER_BG.png</file>
+        <file>PNG/SLIDER_SLIDER.png</file>
+        <file>PNG/YES.png</file>
+    </qresource>
+    <qresource prefix="/soundWav">
+        <file>WAVE/ANIBTN_CLICK.wav</file>
+        <file>WAVE/ANIBTN_ENTER.wav</file>
+        <file>WAVE/APPLE_BG.wav</file>
+        <file>WAVE/APPLE_IN.wav</file>
+        <file>WAVE/GLIDE.wav</file>
+        <file>WAVE/TYPE.wav</file>
+    </qresource>
+</RCC>

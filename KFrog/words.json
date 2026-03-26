@@ -1,0 +1,5 @@
+{
+  "easy": ["cat", "dog", "sun", "bed", "hat"],
+  "medium": ["apple", "banana", "table", "chair", "happy"],
+  "hard": ["computer", "elephant", "beautiful", "important"]
+}

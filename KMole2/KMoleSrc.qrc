@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/imagePng">
+        <file>PNG/CANCEL.png</file>
+        <file>PNG/DEFAULT.png</file>
+        <file>PNG/MAIN_DLG_BG.png</file>
+        <file>PNG/MAIN_DLG_EXIT.png</file>
+        <file>PNG/MAIN_DLG_REPLAY.png</file>
+        <file>PNG/MOLE_APPEAR.png</file>
+        <file>PNG/MOLE_BACKGROUND.png</file>
+        <file>PNG/MOLE_DLG_BG.png</file>
+        <file>PNG/MOLE_DLG_END.png</file>
+        <file>PNG/MOLE_DLG_NEXT.png</file>
+        <file>PNG/MOLE_DLG_REPLAY.png</file>
+        <file>PNG/MOLE_HIDE.png</file>
+        <file>PNG/MOLE_HIT.png</file>
+        <file>PNG/MOLE_NORMAL.png</file>
+        <file>PNG/MOLE_RADISH.png</file>
+        <file>PNG/MOLE_SETUP.png</file>
+        <file>PNG/NO.png</file>
+        <file>PNG/OK.png</file>
+        <file>PNG/PUBLIC_END.png</file>
+        <file>PNG/PUBLIC_EXIT.png</file>
+        <file>PNG/PUBLIC_PAUSE.png</file>
+        <file>PNG/PUBLIC_SETUP.png</file>
+        <file>PNG/PUBLIC_START.png</file>
+        <file>PNG/SLIDER_BG.png</file>
+        <file>PNG/SLIDER_SLIDER.png</file>
+        <file>PNG/YES.png</file>
+    </qresource>
+    <qresource prefix="/soundWav">
+        <file>WAVE/ANIBTN_CLICK.wav</file>
+        <file>WAVE/ANIBTN_ENTER.wav</file>
+        <file>WAVE/GLIDE.wav</file>
+        <file>WAVE/LAMISTER_BG.wav</file>
+        <file>WAVE/MOUSE_AWAY.wav</file>
+        <file>WAVE/MOUSE_BG.wav</file>
+        <file>WAVE/MOUSE_CLICK.wav</file>
+        <file>WAVE/MOUSE_OUT.wav</file>
+        <file>WAVE/TYPE.wav</file>
+        <file>WAVE/UPGRADE.wav</file>
+    </qresource>
+</RCC>

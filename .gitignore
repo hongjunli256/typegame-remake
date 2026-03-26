@@ -1,32 +1,27 @@
-# Prerequisites
-*.d
+# 编辑器/IDE 配置
+.vs/
+.vscode/
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# 编译输出目录
+Debug/
+Release/
+x64/
+obj/
+build/
+output/
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
+# 编译生成文件
 *.exe
-*.out
-*.app
+*.obj
+*.pdb
+*.ilk
+*.log
+
+# 项目用户配置
+*.user
+
+# 渲染输出图片
+*.tga
+
+# 其他
+imgui.ini
